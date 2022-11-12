@@ -1,2 +1,2 @@
 # Exploring-TMDb-Movie-Dataset
-This project explores a dataset containing 10,000 movies.
+This project explores a dataset containing information about 10,000 movies collected from The Movie Database (TMDb). The dataset includes information like the title of the movies, year of release, budget, revenue, genre, user ratings and more. The focus is on how the movies perform based on revenue, popularity, user ratings, year of release, and genre. It considers the relationship between revenue and popularity, and between revenue and number of votes.
